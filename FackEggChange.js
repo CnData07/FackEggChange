@@ -10,4 +10,4 @@ mc.listen('onUseItemOn', (pl,item,block)=>{
     }
 )
 
-colorLog("yellow", "禁止刷怪蛋改变刷怪笼插件加载完成!");
+colorLog("yellow", "[禁止刷怪蛋改变刷怪笼] 加载完成!");
